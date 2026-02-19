@@ -19,7 +19,7 @@ A pre-configured, bootable system image containing the full Bahmni Arabic RTL st
 
 | File | Size | Link |
 |------|------|------|
-| Bootable USB Image | ~80 GB | [Download from Google Drive](#) <!-- TODO: Replace with Google Drive link --> |
+| Bootable USB Image | ~80 GB | [Download from Google Drive](https://drive.google.com/file/d/1APqyFU8IddtPc2QY-BiDCINN49G8q9OH/view?usp=drivesdk) |
 
 ### What's Included
 
@@ -97,7 +97,7 @@ Open a browser and navigate to the server's IP address. All modules are pre-conf
 
 | الملف | الحجم | الرابط |
 |------|------|------|
-| صورة USB القابلة للتمهيد | ~80 جيجابايت | [تحميل من Google Drive](#) <!-- TODO: Replace with Google Drive link --> |
+| صورة USB القابلة للتمهيد | ~80 جيجابايت | [تحميل من Google Drive](https://drive.google.com/file/d/1APqyFU8IddtPc2QY-BiDCINN49G8q9OH/view?usp=drivesdk) |
 
 ### المحتويات
 
