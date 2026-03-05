@@ -16,6 +16,15 @@
 
 ---
 
+## 💻😊 User Facility Setup Guide
+
+To learn more about the steps of system configuration and deployment at a facility. Follow the guide below. 
+
+[English User Guide](https://drive.google.com/file/d/17c9cz87okPUyGKveduW79jrCzieu1ctv/view?usp=sharing)
+
+---
+
+
 ### Overview
 
 A pre-configured, bootable system image containing the full Bahmni Arabic stack. Flash it to a USB drive, boot any server from it, and have a complete hospital EMR running in minutes.
