@@ -59,6 +59,16 @@ sudo dd if=bahmni-appliance.img of=/dev/sdX bs=4M status=progress
 sync
 ```
 
+<div dir="ltr">
+
+```bash
+# Linux/macOS — استبدل /dev/sdX بجهاز USB الخاص بك
+sudo dd if=bahmni-appliance.img of=/dev/sdX bs=4M status=progress
+sync
+
+```
+</div> 
+
 #### 2. تهيئة إعدادات BIOS
 
 1. أدخل ذاكرة USB في الخادم المستهدف
