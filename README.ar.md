@@ -12,12 +12,16 @@
 ---
 
 ## 📖 أدلة التثبيت الكاملة
-**English Guide:** [Download PDF](https://drive.google.com/file/d/18Z1ruQNfTZCaWEv9QzFcNzpFqYoLeTbf/view?usp=sharing)
-
 **الدليل بالعربية:** [تحميل PDF](https://drive.google.com/file/d/1tAcgKpV1vUTgCDnOqqdAOi6G0FyURZZW/view?usp=sharing)
 
 ---
 
+💻😊 دليل إعداد المنشأة للمستخدم
+للاطّلاع على خطوات تهيئة النظام ونشره في المنشأة، يُرجى اتباع الدليل أدناه.
+
+[دليل المستخدم باللغة العربية](https://drive.google.com/file/d/1SPDYwM1kJZUVJjKYME2QF2nd4d8nJLgm/view?usp=sharing)
+
+---
 ### نظرة عامة
 
 صورة نظام مُعدّة مسبقاً وقابلة للتمهيد تحتوي على نظام البهمني باللغة العربية الكامل. انسخها على ذاكرة USB، شغّل أي خادم منها، واحصل على نظام سجلات طبية متكامل للمستشفى في دقائق.
