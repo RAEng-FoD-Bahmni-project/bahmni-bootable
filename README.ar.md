@@ -12,9 +12,8 @@
 ---
 
 ## 📖 أدلة التثبيت الكاملة
-
-- **English Guide:** [Download PDF](https://drive.google.com/file/d/18Z1ruQNfTZCaWEv9QzFcNzpFqYoLeTbf/view?usp=sharing)
-- **الدليل بالعربية:** [تحميل PDF](https://drive.google.com/file/d/1tAcgKpV1vUTgCDnOqqdAOi6G0FyURZZW/view?usp=sharing)
+**English Guide:** [Download PDF](https://drive.google.com/file/d/18Z1ruQNfTZCaWEv9QzFcNzpFqYoLeTbf/view?usp=sharing)
+**الدليل بالعربية:** [تحميل PDF](https://drive.google.com/file/d/1tAcgKpV1vUTgCDnOqqdAOi6G0FyURZZW/view?usp=sharing)
 
 ---
 
